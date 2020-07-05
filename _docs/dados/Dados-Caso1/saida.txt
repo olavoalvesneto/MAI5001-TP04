@@ -1,0 +1,8 @@
+A1 2 ED
+B1 1 E
+C1 0 F
+B2 1 D
+S1 0 F
+TNv 3
+TSd 1
+TNd 5
